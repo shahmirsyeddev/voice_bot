@@ -11,6 +11,8 @@
   "dependencies": {
     "@azure/core-auth": "^1.9.0",
     "@azure/openai": "^2.0.0",
+    "@echogarden/fvad-wasm": "^0.2.0",
+    "@timephy/rnnoise-wasm": "^1.0.0",
     "axios": "^1.9.0",
     "formidable": "^3.5.4",
     "microsoft-cognitiveservices-speech-sdk": "^1.43.1",
